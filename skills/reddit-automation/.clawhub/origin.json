@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "reddit-automation",
+  "requestedReference": "skills-sh:flowkit-labs/skills/reddit-automation",
+  "trustState": "not-scanned-by-clawhub",
+  "installedAt": 1788418133540,
+  "sourceUrl": "https://github.com/flowkit-labs/skills/tree/0c9e2b63f504a296a86e45ed3a60a426dd979ca6/reddit-automation",
+  "artifact": {
+    "kind": "archive",
+    "sha256": "44a862cb90575037b804a0b86e1e5a93f782cf2e59dd8f23521581f190aea326",
+    "integrity": "sha256-RKhiy5BXUDe4BKC4bh5ak/eCzy5Z3Y8jUhWB8ZCuoyY="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "67c1e3ce7e8209def829fa9acec3a72b7c84965c42378a4aeef32b32756ab46b"
+  },
+  "fileTreeSha256": "sha256:f9185cab7bc61e3c1fc7ef0347a41ddcb66705f4a03041f9fada3a0e763f9315",
+  "installedVersion": "0c9e2b63f504a296a86e45ed3a60a426dd979ca6"
+}

@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "skills": {
+    "reddit-automation": {
+      "version": "0c9e2b63f504a296a86e45ed3a60a426dd979ca6",
+      "registry": "https://clawhub.ai",
+      "requestedReference": "skills-sh:flowkit-labs/skills/reddit-automation",
+      "trustState": "not-scanned-by-clawhub",
+      "installedAt": 1788418133540,
+      "sourceUrl": "https://github.com/flowkit-labs/skills/tree/0c9e2b63f504a296a86e45ed3a60a426dd979ca6/reddit-automation",
+      "artifact": {
+        "kind": "archive",
+        "sha256": "44a862cb90575037b804a0b86e1e5a93f782cf2e59dd8f23521581f190aea326",
+        "integrity": "sha256-RKhiy5BXUDe4BKC4bh5ak/eCzy5Z3Y8jUhWB8ZCuoyY="
+      },
+      "skillFile": {
+        "path": "SKILL.md",
+        "sha256": "67c1e3ce7e8209def829fa9acec3a72b7c84965c42378a4aeef32b32756ab46b"
+      },
+      "fileTreeSha256": "sha256:f9185cab7bc61e3c1fc7ef0347a41ddcb66705f4a03041f9fada3a0e763f9315",
+      "verification": {
+        "schema": "clawhub.skill.verify.v1",
+        "ok": false,
+        "decision": "fail",
+        "reasons": [
+          "Not scanned by ClawHub"
+        ],
+        "card": {
+          "available": false,
+          "path": "skill-card.md",
+          "url": null,
+          "sha256": null,
+          "size": null,
+          "contentType": null
+        },
+        "artifact": {
+          "sourceFingerprint": "278abced163b5721c6fec6996f73d521c8901b905b4b2fca45757d1ff0ebbfc6",
+          "bundleFingerprints": [
+            "278abced163b5721c6fec6996f73d521c8901b905b4b2fca45757d1ff0ebbfc6"
+          ],
+          "files": []
+        },
+        "provenance": {
+          "source": "skills.sh",
+          "reference": "skills-sh:flowkit-labs/skills/reddit-automation"
+        },
+        "security": {
+          "status": "unscanned",
+          "passed": false,
+          "rawStatus": "unscanned",
+          "verdict": "unscanned",
+          "source": "skills.sh",
+          "checkedAt": 1788413146192,
+          "clawhubScan": "unscanned",
+          "label": "Not scanned by ClawHub"
+        },
+        "signature": {
+          "status": "unsigned"
+        }
+      }
+    },
+    "data-extractor": {
+      "version": "9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11",
+      "registry": "https://clawhub.ai",
+      "requestedReference": "skills-sh:claude-office-skills/skills/data-extractor",
+      "trustState": "not-scanned-by-clawhub",
+      "installedAt": 1788418652576,
+      "sourceUrl": "https://github.com/claude-office-skills/skills/tree/9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11/data-extractor",
+      "artifact": {
+        "kind": "archive",
+        "sha256": "9dad30520e4c745d7d6bf601e4b49bbf90862ac8fcbcbe5b5e7a62f126f9e89a",
+        "integrity": "sha256-na0wUg5MdF19a/YB5LSbv5CGKsj8vL5bXnpi8Sb56Jo="
+      },
+      "skillFile": {
+        "path": "SKILL.md",
+        "sha256": "f1fe04e29950935fd0b5482414c7c38568b72d655e9ff9fa85753f64c47d4a45"
+      },
+      "fileTreeSha256": "sha256:f0f00ae014c9cffeb597c1f4d487f76b3cf4ed38c86704750e97c33d81715c93",
+      "verification": {
+        "schema": "clawhub.skill.verify.v1",
+        "ok": false,
+        "decision": "fail",
+        "reasons": [
+          "Not scanned by ClawHub"
+        ],
+        "card": {
+          "available": false,
+          "path": "skill-card.md",
+          "url": null,
+          "sha256": null,
+          "size": null,
+          "contentType": null
+        },
+        "artifact": {
+          "sourceFingerprint": "fbfa7f087aab41e2a726b46de2f95ca090ea72fd5bc110e36d05a90b0964b95c",
+          "bundleFingerprints": [
+            "fbfa7f087aab41e2a726b46de2f95ca090ea72fd5bc110e36d05a90b0964b95c"
+          ],
+          "files": []
+        },
+        "provenance": {
+          "source": "skills.sh",
+          "reference": "skills-sh:claude-office-skills/skills/data-extractor"
+        },
+        "security": {
+          "status": "unscanned",
+          "passed": false,
+          "rawStatus": "unscanned",
+          "verdict": "unscanned",
+          "source": "skills.sh",
+          "checkedAt": 1788414407064,
+          "clawhubScan": "unscanned",
+          "label": "Not scanned by ClawHub"
+        },
+        "signature": {
+          "status": "unsigned"
+        }
+      }
+    },
+    "pdf-image-text-extractor": {
+      "version": "1.0.1",
+      "registry": "https://clawhub.ai",
+      "ownerHandle": "redfox-data",
+      "installedAt": 1788418676869,
+      "artifact": {
+        "kind": "archive",
+        "sha256": "9120ff60024285f81182321e0478d229fb58e1b2325361c387cf65e9d90bd7e4",
+        "integrity": "sha256-kSD/YAJChfgRgjIeBHjSKftY4bIyU2HDh89l6dkL1+Q="
+      },
+      "skillFile": {
+        "path": "SKILL.md",
+        "sha256": "363ba18dcb8c432202389aa6b173688fadd8337454a7f2e512d9a06da1a52af1"
+      },
+      "fileTreeSha256": "sha256:83b7199eda681685e97b70528c61dba846e71854dad473a684059f5c1890509a",
+      "verification": {
+        "schema": "clawhub.skill.verify.v1",
+        "ok": true,
+        "decision": "pass",
+        "reasons": [],
+        "card": {
+          "available": true,
+          "path": "skill-card.md",
+          "url": "https://wry-manatee-359.convex.site/api/v1/skills/pdf-image-text-extractor/card?ownerHandle=redfox-data&version=1.0.1",
+          "sha256": "92c5197bc69b8b4ab9a9b3fca9683418fe99a29fafc94b6e57de33c975014630",
+          "size": 2187,
+          "contentType": "text/markdown; charset=utf-8"
+        },
+        "artifact": {
+          "sourceFingerprint": "5e4ce63f1552554c01d42a02442f69bed93ff952edb5ecf14d23a0c401942cfa",
+          "bundleFingerprints": [
+            "3236eb53eadb866ebecb6dc1306159e9c58d0082f407b1ff8dadac073892afb2"
+          ],
+          "files": [
+            {
+              "path": "README.en.md",
+              "size": 3582,
+              "sha256": "755208bea805d5bf1de9ad117c8ecbe364929549a53ade6886218ea00c7dd38f",
+              "contentType": "text/markdown"
+            },
+            {
+              "path": "README.md",
+              "size": 3010,
+              "sha256": "0d10dda089c3e8d7dbc9db6911067b203719fa01721038ae6d8e8b2720ac85bc",
+              "contentType": "text/markdown"
+            },
+            {
+              "path": "scripts/pdf_text_extractor.py",
+              "size": 4747,
+              "sha256": "9cea3c3678576bcaa3b86074dc395cbaf336ec1ce004f0637699b6057a6683b7",
+              "contentType": "text/plain"
+            },
+            {
+              "path": "SKILL.md",
+              "size": 5122,
+              "sha256": "363ba18dcb8c432202389aa6b173688fadd8337454a7f2e512d9a06da1a52af1",
+              "contentType": "text/markdown"
+            }
+          ]
+        },
+        "provenance": {
+          "source": "unavailable",
+          "reason": "No server-resolved GitHub import provenance is stored for this version."
+        },
+        "security": {
+          "status": "clean",
+          "passed": true,
+          "rawStatus": "clean",
+          "verdict": "benign",
+          "confidence": "high",
+          "summary": "This is a normal OCR/text-extraction skill, with minor documentation gaps around when extracted text may be saved.",
+          "model": "gpt-5.5",
+          "checkedAt": 1783639192211,
+          "signals": {
+            "staticScan": {
+              "status": "clean",
+              "rawStatus": "clean",
+              "reasonCodes": [],
+              "summary": "No suspicious patterns detected.",
+              "engineVersion": "v2.4.26",
+              "checkedAt": 1783397183714
+            },
+            "virusTotal": {
+              "status": "clean",
+              "rawStatus": "clean",
+              "verdict": null,
+              "analysis": null,
+              "source": "engines",
+              "scanner": null,
+              "engineStats": {
+                "harmless": 0,
+                "malicious": 0,
+                "suspicious": 0,
+                "undetected": 61
+              },
+              "checkedAt": 1783451517522
+            },
+            "skillSpector": {
+              "status": "suspicious",
+              "rawStatus": "suspicious",
+              "score": 34,
+              "severity": "MEDIUM",
+              "recommendation": "CAUTION",
+              "issueCount": 3,
+              "scannerVersion": "2.3.5",
+              "summary": null,
+              "error": null,
+              "checkedAt": 1783639144419
+            },
+            "dependencyRegistry": null
+          }
+        },
+        "signature": {
+          "status": "unsigned"
+        }
+      }
+    }
+  }
+}

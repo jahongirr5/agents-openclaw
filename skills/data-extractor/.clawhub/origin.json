@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "data-extractor",
+  "requestedReference": "skills-sh:claude-office-skills/skills/data-extractor",
+  "trustState": "not-scanned-by-clawhub",
+  "installedAt": 1788418652576,
+  "sourceUrl": "https://github.com/claude-office-skills/skills/tree/9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11/data-extractor",
+  "artifact": {
+    "kind": "archive",
+    "sha256": "9dad30520e4c745d7d6bf601e4b49bbf90862ac8fcbcbe5b5e7a62f126f9e89a",
+    "integrity": "sha256-na0wUg5MdF19a/YB5LSbv5CGKsj8vL5bXnpi8Sb56Jo="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "f1fe04e29950935fd0b5482414c7c38568b72d655e9ff9fa85753f64c47d4a45"
+  },
+  "fileTreeSha256": "sha256:f0f00ae014c9cffeb597c1f4d487f76b3cf4ed38c86704750e97c33d81715c93",
+  "installedVersion": "9c4c7d5cd2813a8936bf2c9fdb174ea883b85a11"
+}

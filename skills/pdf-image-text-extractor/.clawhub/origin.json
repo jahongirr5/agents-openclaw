@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "pdf-image-text-extractor",
+  "ownerHandle": "redfox-data",
+  "installedAt": 1788418676869,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "9120ff60024285f81182321e0478d229fb58e1b2325361c387cf65e9d90bd7e4",
+    "integrity": "sha256-kSD/YAJChfgRgjIeBHjSKftY4bIyU2HDh89l6dkL1+Q="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "363ba18dcb8c432202389aa6b173688fadd8337454a7f2e512d9a06da1a52af1"
+  },
+  "fileTreeSha256": "sha256:83b7199eda681685e97b70528c61dba846e71854dad473a684059f5c1890509a",
+  "installedVersion": "1.0.1"
+}
